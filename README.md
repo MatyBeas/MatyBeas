@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Estudiante-Ingenier%C3%ADa%20en%20Inform%C3%A1tica-blue?style=for-the-badge&logo=education&logoColor=white" alt="Estudiante Informática">
   <img src="https://img.shields.io/badge/Certificado-PCEP%20Python-darkgreen?style=for-the-badge&logo=python&logoColor=white" alt="PCEP Certified">
 </p>
----
+
 
 ### 🛠️ Tecnologías y Lenguajes ⚡
 
