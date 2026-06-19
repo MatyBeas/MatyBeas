@@ -1,16 +1,13 @@
-# ¡Hola! 👋 Soy Matias Beas ✨👨‍💻
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Estudiante-Ingenier%C3%ADa%20en%20Inform%C3%A1tica-blue?style=for-the-badge&logo=education&logoColor=white" alt="Estudiante Informática">
-  <img src="https://img.shields.io/badge/Certificado-PCEP%20Python-darkgreen?style=for-the-badge&logo=python&logoColor=white" alt="PCEP Certified">
-</p>
-
 ---
 
 ### 🚀 Sobre Mí 🎯
 
 ¡Hola! Mi nombre es **Matias Beas**, tengo 19 años 🎂 y actualmente estoy cursando la carrera de **Ingeniería en Informática** en **Duoc UC** 🎓. Me apasiona el desarrollo de software 💻, la resolución de problemas lógicos 🧠 y la creación de experiencias digitales interactivas 🌐. Siempre estoy buscando expandir mis conocimientos, optimizar mis habilidades de programación y aprender nuevas tecnologías para construir soluciones robustas y eficientes 🚀.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Estudiante-Ingenier%C3%ADa%20en%20Inform%C3%A1tica-blue?style=for-the-badge&logo=education&logoColor=white" alt="Estudiante Informática">
+  <img src="https://img.shields.io/badge/Certificado-PCEP%20Python-darkgreen?style=for-the-badge&logo=python&logoColor=white" alt="PCEP Certified">
+</p>
 ---
 
 ### 🛠️ Tecnologías y Lenguajes ⚡
