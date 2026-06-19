@@ -59,5 +59,6 @@
 
 ¿Tienes algún proyecto en mente o te gustaría colaborar en algo juntos? ¡No dudes en escribirme! 🚀
 
-* **📥 Correo Electrónico:** [matiaslol@gmail.com](mailto:matiaslol@gmail.com)
+* **📥 Correo Electrónico:** [beasmatias](beasmatias01@gmail.com)
+* **📥 Correo Electrónico Secundario:** [matiasbeas](matiasbeas230@gmail.com)
 * **💼 LinkedIn:** [Tu Perfil de LinkedIn](https://linkedin.com)
